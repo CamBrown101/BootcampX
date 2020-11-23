@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "askForPassword": true,
+      "database": "bootcampx",
+      "driver": "PostgreSQL",
+      "name": "BootcampX",
+      "port": 5432,
+      "previewLimit": 50,
+      "server": "localhost",
+      "username": "cambrown"
+    }
+  ]
+}

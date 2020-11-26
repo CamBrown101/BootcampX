@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CamBrown101/BootcampX/issues"
   },
-  "homepage": "https://github.com/CamBrown101/BootcampX#readme"
+  "homepage": "https://github.com/CamBrown101/BootcampX#readme",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
 }
